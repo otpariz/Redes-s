@@ -23,5 +23,6 @@
     <footer>
         <p>Desenvolvido por Otávio Ts</p>
     </footer>
+<script type="module" src="gráficos/informacoesGlobais.js"></script>
 </body>
 </html>
